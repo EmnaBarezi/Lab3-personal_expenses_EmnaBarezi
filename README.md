@@ -1,5 +1,5 @@
 # Lab 3 - Personal Expenses Tracker
-Author: James Kanneh
+Author: EmnaBarezi
 
 ## Files
 - expenses-tracker.py — Python CLI application
